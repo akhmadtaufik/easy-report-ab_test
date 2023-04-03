@@ -16,5 +16,138 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{baldwin_2023_how}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b2cc42d26447a093ea1fbb31863cc51d}{%
+           family={Baldwin},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {www.linkedin.com}%
+      }
+      \strng{namehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{fullhash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{bibnamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authorbibnamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authornamehash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \strng{authorfullhash}{b2cc42d26447a093ea1fbb31863cc51d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{How A/B Testing Can Improve Your Marketing Campaigns}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.linkedin.com/pulse/how-ab-testing-can-improve-your-marketing-campaigns-tom-baldwin
+      \endverb
+      \verb{url}
+      \verb https://www.linkedin.com/pulse/how-ab-testing-can-improve-your-marketing-campaigns-tom-baldwin
+      \endverb
+    \endentry
+    \entry{a2019_how}{misc}{}
+      \list{organization}{1}{%
+        {Lotame}%
+      }
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{month}{03}
+      \field{title}{How to Use A/B Testing to Maximize Marketing Campaigns}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lotame.com/how-to-use-a-b-testing-to-maximize-marketing-campaign-performance/
+      \endverb
+      \verb{url}
+      \verb https://www.lotame.com/how-to-use-a-b-testing-to-maximize-marketing-campaign-performance/
+      \endverb
+    \endentry
+    \entry{kohavi_tang_xu_2020}{book}{}
+      \name{author}{3}{}{%
+        {{hash=f2a149b8d68fbffd75e8ece81b80708f}{%
+           family={Kohavi},
+           familyi={K\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e64687d062ff9b03e547962de2cbbe96}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Diane},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3de32bfd4735adb7556c1be9080f5a28}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \strng{fullhash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \strng{bibnamehash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \strng{authorbibnamehash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \strng{authornamehash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \strng{authorfullhash}{f86b79f767394563b9e4aabe4c87d1f1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1017/9781108653985
+      \endverb
+    \endentry
+    \entry{saleh_2017_how}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1adebe83b40ca2bbf86d23a030e6393e}{%
+           family={Saleh},
+           familyi={S\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Invespcro}%
+      }
+      \strng{namehash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \strng{fullhash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \strng{bibnamehash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \strng{authorbibnamehash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \strng{authornamehash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \strng{authorfullhash}{1adebe83b40ca2bbf86d23a030e6393e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{How Long Should You Run an A/B Test for and How to Calculate...}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.invespcro.com/blog/how-long-should-you-run-an-ab-test-for/
+      \endverb
+      \verb{url}
+      \verb https://www.invespcro.com/blog/how-long-should-you-run-an-ab-test-for/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 
