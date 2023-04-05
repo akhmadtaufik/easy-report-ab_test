@@ -54,6 +54,72 @@
       \verb https://www.linkedin.com/pulse/how-ab-testing-can-improve-your-marketing-campaigns-tom-baldwin
       \endverb
     \endentry
+    \entry{cohen_1988_statistical}{book}{}
+      \name{author}{1}{}{%
+        {{hash=eaad07ee1c6ef93a9308150f12c3c2eb}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {L. Erlbaum Associates}%
+      }
+      \strng{namehash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \strng{fullhash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \strng{bibnamehash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \strng{authorbibnamehash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \strng{authornamehash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \strng{authorfullhash}{eaad07ee1c6ef93a9308150f12c3c2eb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Statistical Power Analysis for the Behavioral Sciences}
+      \field{year}{1988}
+      \verb{urlraw}
+      \verb https://www.utstat.toronto.edu/~brunner/oldclass/378f16/readings/CohenPower.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.utstat.toronto.edu/~brunner/oldclass/378f16/readings/CohenPower.pdf
+      \endverb
+    \endentry
+    \entry{healy_2022_sample}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=ef2936d86f08af3bf0f6b29e7260dcd6}{%
+           family={Healy},
+           familyi={H\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {AB Tasty}%
+      }
+      \strng{namehash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \strng{fullhash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \strng{bibnamehash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \strng{authorbibnamehash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \strng{authornamehash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \strng{authorfullhash}{ef2936d86f08af3bf0f6b29e7260dcd6}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Sample Ratio Mismatch: What Is It and How Does It Happen?}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.abtasty.com/blog/sample-ratio-mismatch/
+      \endverb
+      \verb{url}
+      \verb https://www.abtasty.com/blog/sample-ratio-mismatch/
+      \endverb
+    \endentry
     \entry{a2019_how}{misc}{}
       \list{organization}{1}{%
         {Lotame}%
@@ -112,6 +178,96 @@
       \verb 10.1017/9781108653985
       \endverb
     \endentry
+    \entry{kohavi_2013_online}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f2a149b8d68fbffd75e8ece81b80708f}{%
+           family={Kohavi},
+           familyi={K\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod}}}%
+        {{hash=280fb0f40ee2ee7b1c446e42c8cb2ce8}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b38c9714eae725fef9675eb976f6d3d8}{%
+           family={Frasca},
+           familyi={F\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d38361b0444525fe09ce77a0258b8222}{%
+           family={Walker},
+           familyi={W\bibinitperiod},
+           given={Toby},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3de32bfd4735adb7556c1be9080f5a28}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ec48a90c0442996d57d95ec94ce0373d}{%
+           family={Pohlmann},
+           familyi={P\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{3f993bd4393817440119707795635244}
+      \strng{fullhash}{1b54fbade7a4d6f3bbf29fbef6b20dda}
+      \strng{bibnamehash}{3f993bd4393817440119707795635244}
+      \strng{authorbibnamehash}{3f993bd4393817440119707795635244}
+      \strng{authornamehash}{3f993bd4393817440119707795635244}
+      \strng{authorfullhash}{1b54fbade7a4d6f3bbf29fbef6b20dda}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}
+      \field{month}{08}
+      \field{title}{Online Controlled Experiments at Large Scale}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1145/2487575.2488217
+      \endverb
+    \endentry
+    \entry{makkar_2019}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=edc0257894bec89bb72857e061c4ae58}{%
+           family={Makkar},
+           familyi={M\bibinitperiod},
+           given={Mani},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {VWO Blog}%
+      }
+      \strng{namehash}{edc0257894bec89bb72857e061c4ae58}
+      \strng{fullhash}{edc0257894bec89bb72857e061c4ae58}
+      \strng{bibnamehash}{edc0257894bec89bb72857e061c4ae58}
+      \strng{authorbibnamehash}{edc0257894bec89bb72857e061c4ae58}
+      \strng{authornamehash}{edc0257894bec89bb72857e061c4ae58}
+      \strng{authorfullhash}{edc0257894bec89bb72857e061c4ae58}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{What Is an A/A Test? Why Should You Care? | VWO}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://vwo.com/blog/aa-test-before-ab-testing/
+      \endverb
+      \verb{url}
+      \verb https://vwo.com/blog/aa-test-before-ab-testing/
+      \endverb
+    \endentry
     \entry{saleh_2017_how}{misc}{}
       \name{author}{1}{}{%
         {{hash=1adebe83b40ca2bbf86d23a030e6393e}{%
@@ -145,6 +301,44 @@
       \endverb
       \verb{url}
       \verb https://www.invespcro.com/blog/how-long-should-you-run-an-ab-test-for/
+      \endverb
+    \endentry
+    \entry{ye_2020_ab}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=cd13ee2961865096e80d80abf54f15e6}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {DataSeries}%
+      }
+      \list{publisher}{1}{%
+        {Medium}%
+      }
+      \strng{namehash}{cd13ee2961865096e80d80abf54f15e6}
+      \strng{fullhash}{cd13ee2961865096e80d80abf54f15e6}
+      \strng{bibnamehash}{cd13ee2961865096e80d80abf54f15e6}
+      \strng{authorbibnamehash}{cd13ee2961865096e80d80abf54f15e6}
+      \strng{authornamehash}{cd13ee2961865096e80d80abf54f15e6}
+      \strng{authorfullhash}{cd13ee2961865096e80d80abf54f15e6}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{A/B Testing’s Worst Enemy: Sample Ratio Mismatch}
+      \field{urlday}{5}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medium.com/dataseries/a-b-testings-worst-enemy-sample-ratio-mismatch-bf95eb0ab1c7
+      \endverb
+      \verb{url}
+      \verb https://medium.com/dataseries/a-b-testings-worst-enemy-sample-ratio-mismatch-bf95eb0ab1c7
       \endverb
     \endentry
   \enddatalist

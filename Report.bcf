@@ -2352,7 +2352,12 @@
     <bcf:citekey order="1" intorder="1">a2019_how</bcf:citekey>
     <bcf:citekey order="2" intorder="1">baldwin_2023_how</bcf:citekey>
     <bcf:citekey order="3" intorder="1">kohavi_tang_xu_2020</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">saleh_2017_how</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">cohen_1988_statistical</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">kohavi_2013_online</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">saleh_2017_how</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">makkar_2019</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">healy_2022_sample</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">ye_2020_ab</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
