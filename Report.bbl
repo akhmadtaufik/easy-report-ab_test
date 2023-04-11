@@ -233,6 +233,32 @@
       \verb 10.1145/2487575.2488217
       \endverb
     \endentry
+    \entry{ref1}{inbook}{}
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Concise Encyclopedia of Statistics}
+      \field{isbn}{978-0-387-32833-1}
+      \field{title}{Kolmogorov--Smirnov Test}
+      \field{year}{2008}
+      \field{pages}{283\bibrangedash 287}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1007/978-0-387-32833-1_214
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-0-387-32833-1_214
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-0-387-32833-1_214
+      \endverb
+    \endentry
     \entry{makkar_2019}{misc}{}
       \name{author}{1}{}{%
         {{hash=edc0257894bec89bb72857e061c4ae58}{%
